@@ -1,0 +1,13 @@
+C:\Users\Student\Desktop\KURS\nowyAnnaMusial\bin\Debug\netcoreapp3.1\nowyAnnaMusial.exe
+C:\Users\Student\Desktop\KURS\nowyAnnaMusial\bin\Debug\netcoreapp3.1\nowyAnnaMusial.deps.json
+C:\Users\Student\Desktop\KURS\nowyAnnaMusial\bin\Debug\netcoreapp3.1\nowyAnnaMusial.runtimeconfig.json
+C:\Users\Student\Desktop\KURS\nowyAnnaMusial\bin\Debug\netcoreapp3.1\nowyAnnaMusial.runtimeconfig.dev.json
+C:\Users\Student\Desktop\KURS\nowyAnnaMusial\bin\Debug\netcoreapp3.1\nowyAnnaMusial.dll
+C:\Users\Student\Desktop\KURS\nowyAnnaMusial\bin\Debug\netcoreapp3.1\nowyAnnaMusial.pdb
+C:\Users\Student\Desktop\KURS\nowyAnnaMusial\obj\Debug\netcoreapp3.1\nowyAnnaMusial.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\KURS\nowyAnnaMusial\obj\Debug\netcoreapp3.1\nowyAnnaMusial.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\KURS\nowyAnnaMusial\obj\Debug\netcoreapp3.1\nowyAnnaMusial.AssemblyInfo.cs
+C:\Users\Student\Desktop\KURS\nowyAnnaMusial\obj\Debug\netcoreapp3.1\nowyAnnaMusial.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\KURS\nowyAnnaMusial\obj\Debug\netcoreapp3.1\nowyAnnaMusial.dll
+C:\Users\Student\Desktop\KURS\nowyAnnaMusial\obj\Debug\netcoreapp3.1\nowyAnnaMusial.pdb
+C:\Users\Student\Desktop\KURS\nowyAnnaMusial\obj\Debug\netcoreapp3.1\nowyAnnaMusial.genruntimeconfig.cache
